@@ -1,0 +1,1235 @@
+IfcId:ID|:LABEL|Value
+#1_0|IfcIdentifier|$
+#1_1|IfcLabel|Autodesk Revit 2022 (ENU)
+#1_2|IfcText|$
+#1_3|IfcActorRole|$
+#1_4|IfcAddress|$
+#5_1|IfcLabel|2022
+#5_2|IfcLabel|Autodesk Revit 2022 (ENU)
+#5_3|IfcIdentifier|Revit
+#6_0|IfcLengthMeasure|[0., 0., 0.]
+#10_0|IfcLengthMeasure|[0., 0.]
+#12_0|IfcReal|[1., 0., 0.]
+#14_0|IfcReal|[-1., 0., 0.]
+#16_0|IfcReal|[0., 1., 0.]
+#18_0|IfcReal|[0., -1., 0.]
+#20_0|IfcReal|[0., 0., 1.]
+#22_0|IfcReal|[0., 0., -1.]
+#24_0|IfcReal|[1., 0.]
+#26_0|IfcReal|[-1., 0.]
+#28_0|IfcReal|[0., 1.]
+#30_0|IfcReal|[0., -1.]
+#32_1|IfcDirection|$
+#32_2|IfcDirection|$
+#36_0|IfcIdentifier|$
+#36_1|IfcLabel|
+#36_2|IfcLabel|luka.gradisar
+#36_3|IfcLabel|$
+#36_4|IfcLabel|$
+#36_5|IfcLabel|$
+#36_6|IfcActorRole|$
+#36_7|IfcAddress|$
+#38_0|IfcIdentifier|$
+#38_1|IfcLabel|
+#38_2|IfcText|
+#38_3|IfcActorRole|$
+#38_4|IfcAddress|$
+#39_2|IfcActorRole|$
+#42_2|IfcStateEnum|$
+#42_3|IfcChangeActionEnum|.NOCHANGE.
+#42_4|IfcTimeStamp|$
+#42_5|IfcPersonAndOrganization|$
+#42_6|IfcApplication|$
+#42_7|IfcTimeStamp|1626690817
+#43_0|IfcDimensionalExponents|*
+#43_1|IfcUnitEnum|.LENGTHUNIT.
+#43_2|IfcSIPrefix|.MILLI.
+#43_3|IfcSIUnitName|.METRE.
+#44_0|IfcDimensionalExponents|*
+#44_1|IfcUnitEnum|.LENGTHUNIT.
+#44_2|IfcSIPrefix|$
+#44_3|IfcSIUnitName|.METRE.
+#45_0|IfcDimensionalExponents|*
+#45_1|IfcUnitEnum|.AREAUNIT.
+#45_2|IfcSIPrefix|$
+#45_3|IfcSIUnitName|.SQUARE_METRE.
+#46_0|IfcDimensionalExponents|*
+#46_1|IfcUnitEnum|.VOLUMEUNIT.
+#46_2|IfcSIPrefix|$
+#46_3|IfcSIUnitName|.CUBIC_METRE.
+#47_0|IfcDimensionalExponents|*
+#47_1|IfcUnitEnum|.PLANEANGLEUNIT.
+#47_2|IfcSIPrefix|$
+#47_3|IfcSIUnitName|.RADIAN.
+#48_0|INTEGER|0
+#48_1|INTEGER|0
+#48_2|INTEGER|0
+#48_3|INTEGER|0
+#48_4|INTEGER|0
+#48_5|INTEGER|0
+#48_6|INTEGER|0
+#49_0|IfcValue|[IFCRATIOMEASURE, 0.0174532925199433]
+#50_1|IfcUnitEnum|.PLANEANGLEUNIT.
+#50_2|IfcLabel|DEGREE
+#52_0|IfcDimensionalExponents|*
+#52_1|IfcUnitEnum|.MASSUNIT.
+#52_2|IfcSIPrefix|.KILO.
+#52_3|IfcSIUnitName|.GRAM.
+#53_1|INTEGER|1
+#54_1|INTEGER|-3
+#55_0|IfcDerivedUnitElement|[#53, #54]
+#55_1|IfcDerivedUnitEnum|.MASSDENSITYUNIT.
+#55_2|IfcLabel|$
+#57_1|INTEGER|4
+#58_0|IfcDerivedUnitElement|[#57]
+#58_1|IfcDerivedUnitEnum|.MOMENTOFINERTIAUNIT.
+#58_2|IfcLabel|$
+#60_0|IfcDimensionalExponents|*
+#60_1|IfcUnitEnum|.TIMEUNIT.
+#60_2|IfcSIPrefix|$
+#60_3|IfcSIUnitName|.SECOND.
+#61_0|IfcDimensionalExponents|*
+#61_1|IfcUnitEnum|.FREQUENCYUNIT.
+#61_2|IfcSIPrefix|$
+#61_3|IfcSIUnitName|.HERTZ.
+#62_0|IfcDimensionalExponents|*
+#62_1|IfcUnitEnum|.THERMODYNAMICTEMPERATUREUNIT.
+#62_2|IfcSIPrefix|$
+#62_3|IfcSIUnitName|.KELVIN.
+#63_0|IfcDimensionalExponents|*
+#63_1|IfcUnitEnum|.THERMODYNAMICTEMPERATUREUNIT.
+#63_2|IfcSIPrefix|$
+#63_3|IfcSIUnitName|.DEGREE_CELSIUS.
+#64_1|INTEGER|1
+#65_1|INTEGER|-1
+#66_1|INTEGER|-3
+#67_0|IfcDerivedUnitElement|[#64, #65, #66]
+#67_1|IfcDerivedUnitEnum|.THERMALTRANSMITTANCEUNIT.
+#67_2|IfcLabel|$
+#69_0|IfcDimensionalExponents|*
+#69_1|IfcUnitEnum|.LENGTHUNIT.
+#69_2|IfcSIPrefix|.DECI.
+#69_3|IfcSIUnitName|.METRE.
+#70_1|INTEGER|3
+#71_1|INTEGER|-1
+#72_0|IfcDerivedUnitElement|[#70, #71]
+#72_1|IfcDerivedUnitEnum|.VOLUMETRICFLOWRATEUNIT.
+#72_2|IfcLabel|$
+#74_0|IfcDimensionalExponents|*
+#74_1|IfcUnitEnum|.ELECTRICCURRENTUNIT.
+#74_2|IfcSIPrefix|$
+#74_3|IfcSIUnitName|.AMPERE.
+#75_0|IfcDimensionalExponents|*
+#75_1|IfcUnitEnum|.ELECTRICVOLTAGEUNIT.
+#75_2|IfcSIPrefix|$
+#75_3|IfcSIUnitName|.VOLT.
+#76_0|IfcDimensionalExponents|*
+#76_1|IfcUnitEnum|.POWERUNIT.
+#76_2|IfcSIPrefix|$
+#76_3|IfcSIUnitName|.WATT.
+#77_0|IfcDimensionalExponents|*
+#77_1|IfcUnitEnum|.FORCEUNIT.
+#77_2|IfcSIPrefix|.KILO.
+#77_3|IfcSIUnitName|.NEWTON.
+#78_0|IfcDimensionalExponents|*
+#78_1|IfcUnitEnum|.ILLUMINANCEUNIT.
+#78_2|IfcSIPrefix|$
+#78_3|IfcSIUnitName|.LUX.
+#79_0|IfcDimensionalExponents|*
+#79_1|IfcUnitEnum|.LUMINOUSFLUXUNIT.
+#79_2|IfcSIPrefix|$
+#79_3|IfcSIUnitName|.LUMEN.
+#80_0|IfcDimensionalExponents|*
+#80_1|IfcUnitEnum|.LUMINOUSINTENSITYUNIT.
+#80_2|IfcSIPrefix|$
+#80_3|IfcSIUnitName|.CANDELA.
+#81_1|INTEGER|-1
+#82_1|INTEGER|-2
+#83_1|INTEGER|3
+#84_1|INTEGER|1
+#85_0|IfcDerivedUnitElement|[#81, #82, #83, #84]
+#85_1|IfcDerivedUnitEnum|.USERDEFINED.
+#85_2|IfcLabel|Luminous Efficacy
+#87_1|INTEGER|1
+#88_1|INTEGER|-1
+#89_0|IfcDerivedUnitElement|[#87, #88]
+#89_1|IfcDerivedUnitEnum|.LINEARVELOCITYUNIT.
+#89_2|IfcLabel|$
+#91_0|IfcDimensionalExponents|*
+#91_1|IfcUnitEnum|.PRESSUREUNIT.
+#91_2|IfcSIPrefix|$
+#91_3|IfcSIUnitName|.PASCAL.
+#92_1|INTEGER|-2
+#93_1|INTEGER|1
+#94_1|INTEGER|-2
+#95_0|IfcDerivedUnitElement|[#92, #93, #94]
+#95_1|IfcDerivedUnitEnum|.USERDEFINED.
+#95_2|IfcLabel|Friction Loss
+#97_1|INTEGER|1
+#98_1|INTEGER|1
+#99_1|INTEGER|-2
+#100_1|INTEGER|-1
+#101_0|IfcDerivedUnitElement|[#97, #98, #99, #100]
+#101_1|IfcDerivedUnitEnum|.LINEARFORCEUNIT.
+#101_2|IfcLabel|$
+#103_1|INTEGER|1
+#104_1|INTEGER|1
+#105_1|INTEGER|-2
+#106_1|INTEGER|-2
+#107_0|IfcDerivedUnitElement|[#103, #104, #105, #106]
+#107_1|IfcDerivedUnitEnum|.PLANARFORCEUNIT.
+#107_2|IfcLabel|$
+#109_0|IfcUnit|[#43, #45, #46, #50, #52, #55, #58, #60, #61, #63, #67, #72, #74, #75, #76, #77, #78, #79, #80, #85, #89, #91, #95, #101, #107]
+#111_1|IfcDirection|$
+#111_2|IfcDirection|$
+#112_0|IfcReal|[6.12303176911189E-17, 1.]
+#114_0|IfcLabel|$
+#114_1|IfcLabel|Model
+#114_2|IfcDimensionCount|3
+#114_3|IfcReal|0.01
+#118_0|IfcLabel|Axis
+#118_1|IfcLabel|Model
+#118_2|IfcDimensionCount|*
+#118_3|IfcReal|*
+#118_4|IfcAxis2Placement|*
+#118_5|IfcDirection|*
+#118_7|IfcPositiveRatioMeasure|$
+#118_8|IfcGeometricProjectionEnum|.GRAPH_VIEW.
+#118_9|IfcLabel|$
+#120_0|IfcLabel|Body
+#120_1|IfcLabel|Model
+#120_2|IfcDimensionCount|*
+#120_3|IfcReal|*
+#120_4|IfcAxis2Placement|*
+#120_5|IfcDirection|*
+#120_7|IfcPositiveRatioMeasure|$
+#120_8|IfcGeometricProjectionEnum|.MODEL_VIEW.
+#120_9|IfcLabel|$
+#121_0|IfcLabel|Box
+#121_1|IfcLabel|Model
+#121_2|IfcDimensionCount|*
+#121_3|IfcReal|*
+#121_4|IfcAxis2Placement|*
+#121_5|IfcDirection|*
+#121_7|IfcPositiveRatioMeasure|$
+#121_8|IfcGeometricProjectionEnum|.MODEL_VIEW.
+#121_9|IfcLabel|$
+#122_0|IfcLabel|FootPrint
+#122_1|IfcLabel|Model
+#122_2|IfcDimensionCount|*
+#122_3|IfcReal|*
+#122_4|IfcAxis2Placement|*
+#122_5|IfcDirection|*
+#122_7|IfcPositiveRatioMeasure|$
+#122_8|IfcGeometricProjectionEnum|.MODEL_VIEW.
+#122_9|IfcLabel|$
+#123_0|IfcLabel|EPSG:3857
+#123_1|IfcText|$
+#123_2|IfcIdentifier|$
+#123_3|IfcIdentifier|$
+#123_4|IfcIdentifier|$
+#123_5|IfcIdentifier|$
+#123_6|IfcNamedUnit|$
+#125_2|IfcLengthMeasure|0.
+#125_3|IfcLengthMeasure|0.
+#125_4|IfcLengthMeasure|0.
+#125_5|IfcReal|1.
+#125_6|IfcReal|6.12303176911189E-17
+#125_7|IfcReal|$
+#127_4|IfcLabel|$
+#127_5|IfcLabel|
+#127_6|IfcLabel|
+#127_7|IfcRepresentationContext|[#114]
+#138_0|IfcAddressTypeEnum|$
+#138_1|IfcText|$
+#138_2|IfcLabel|$
+#138_3|IfcLabel|$
+#138_4|IfcLabel|[]
+#138_5|IfcLabel|$
+#138_6|IfcLabel|
+#138_7|IfcLabel|
+#138_8|IfcLabel|
+#138_9|IfcLabel|
+#142_4|IfcLabel|$
+#142_6|IfcProductRepresentation|$
+#142_7|IfcLabel|
+#142_8|IfcElementCompositionEnum|.ELEMENT.
+#142_9|IfcLengthMeasure|$
+#142_10|IfcLengthMeasure|$
+#152_1|IfcDirection|$
+#152_2|IfcDirection|$
+#155_4|IfcLabel|Level:Level 1
+#155_6|IfcProductRepresentation|$
+#155_7|IfcLabel|Level 1
+#155_8|IfcElementCompositionEnum|.ELEMENT.
+#155_9|IfcLengthMeasure|0.
+#157_1|IfcDirection|$
+#157_2|IfcDirection|$
+#158_0|IfcObjectPlacement|$
+#159_4|IfcLabel|$
+#159_6|IfcProductRepresentation|$
+#159_7|IfcLabel|$
+#159_8|IfcElementCompositionEnum|.ELEMENT.
+#159_9|IfcCompoundPlaneAngleMeasure|[42, 24, 53, 508911]
+#159_10|IfcCompoundPlaneAngleMeasure|[-71, -15, -29, -58837]
+#159_11|IfcLengthMeasure|0.
+#159_12|IfcLabel|$
+#159_13|IfcPostalAddress|$
+#163_0|IfcIdentifier|Reference
+#163_1|IfcText|$
+#163_2|IfcValue|[IFCIDENTIFIER, "Project Information"]
+#163_3|IfcUnit|$
+#171_4|IfcProperty|[#163]
+#179_4|IfcObjectDefinition|[#159]
+#183_0|IfcIdentifier|Category
+#183_1|IfcText|$
+#183_2|IfcValue|[IFCLABEL, "Project Information"]
+#183_3|IfcUnit|$
+#184_4|IfcProperty|[#183]
+#187_4|IfcObjectDefinition|[#159]
+#190_1|IfcDirection|$
+#190_2|IfcDirection|$
+#1185_0|IfcLabel|A-GENM-____-OTLN
+#1185_1|IfcText|$
+#1185_2|IfcLayeredItem|[#772, #801, #936, #945]
+#1185_3|IfcIdentifier|$
+#192_0|IfcLengthMeasure|[5906.09839124312, -88.2351901060006, 14.4546042922273]
+#195_0|IfcLengthMeasure|[5906.09839124312, -88.2351901060006, 259.2513306699]
+#198_1|IfcLengthMeasure|304.8
+#200_1|IfcTrimmingSelect|[#192]
+#200_2|IfcTrimmingSelect|[#195]
+#200_3|IfcBoolean|.T.
+#200_4|IfcTrimmingPreference|.CARTESIAN.
+#203_3|IfcBoolean|.T.
+#204_0|IfcLengthMeasure|[-7013.09140488648, -1985.53382775455, 263.484666119901]
+#207_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174128]
+#209_1|IfcLengthMeasure|304.8
+#211_1|IfcTrimmingSelect|[#195]
+#211_2|IfcTrimmingSelect|[#204]
+#211_3|IfcBoolean|.T.
+#211_4|IfcTrimmingPreference|.CARTESIAN.
+#214_3|IfcBoolean|.T.
+#215_0|IfcLengthMeasure|[-7013.09140488647, -1985.53382775455, 18.6879397422273]
+#218_1|IfcLengthMeasure|304.8
+#220_1|IfcTrimmingSelect|[#204]
+#220_2|IfcTrimmingSelect|[#215]
+#220_3|IfcBoolean|.T.
+#220_4|IfcTrimmingPreference|.CARTESIAN.
+#223_3|IfcBoolean|.T.
+#224_0|IfcReal|[0.989387530178885, 0.145300413008657, -0.000324200617174107]
+#226_1|IfcLengthMeasure|304.8
+#228_1|IfcTrimmingSelect|[#215]
+#228_2|IfcTrimmingSelect|[#192]
+#228_3|IfcBoolean|.T.
+#228_4|IfcTrimmingPreference|.CARTESIAN.
+#231_3|IfcBoolean|.T.
+#232_0|IfcLengthMeasure|[5804.38809679191, 604.336117415754, 276.836997325476]
+#235_0|IfcReal|[-0.145254590317722, 0.98907551180212, 0.0251144568925121]
+#237_1|IfcLengthMeasure|304.8
+#239_1|IfcTrimmingSelect|[#195]
+#239_2|IfcTrimmingSelect|[#232]
+#239_3|IfcBoolean|.T.
+#239_4|IfcTrimmingPreference|.CARTESIAN.
+#242_3|IfcBoolean|.T.
+#243_0|IfcLengthMeasure|[-7114.80169933769, -1292.96252023279, 281.070332775477]
+#246_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174079]
+#248_1|IfcLengthMeasure|304.8
+#250_1|IfcTrimmingSelect|[#232]
+#250_2|IfcTrimmingSelect|[#243]
+#250_3|IfcBoolean|.T.
+#250_4|IfcTrimmingPreference|.CARTESIAN.
+#253_3|IfcBoolean|.T.
+#254_0|IfcReal|[0.145254590317724, -0.989075511802119, -0.0251144568925121]
+#256_1|IfcLengthMeasure|304.8
+#258_1|IfcTrimmingSelect|[#243]
+#258_2|IfcTrimmingSelect|[#204]
+#258_3|IfcBoolean|.T.
+#258_4|IfcTrimmingPreference|.CARTESIAN.
+#261_3|IfcBoolean|.T.
+#262_0|IfcLengthMeasure|[5804.38809679191, 604.336117415753, 14.4546042924547]
+#265_1|IfcLengthMeasure|304.8
+#267_1|IfcTrimmingSelect|[#232]
+#267_2|IfcTrimmingSelect|[#262]
+#267_3|IfcBoolean|.T.
+#267_4|IfcTrimmingPreference|.CARTESIAN.
+#270_3|IfcBoolean|.T.
+#271_0|IfcLengthMeasure|[-7114.80169933769, -1292.9625202328, 18.6879397424557]
+#274_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174118]
+#276_1|IfcLengthMeasure|304.8
+#278_1|IfcTrimmingSelect|[#262]
+#278_2|IfcTrimmingSelect|[#271]
+#278_3|IfcBoolean|.T.
+#278_4|IfcTrimmingPreference|.CARTESIAN.
+#281_3|IfcBoolean|.T.
+#282_1|IfcLengthMeasure|304.8
+#284_1|IfcTrimmingSelect|[#271]
+#284_2|IfcTrimmingSelect|[#243]
+#284_3|IfcBoolean|.T.
+#284_4|IfcTrimmingPreference|.CARTESIAN.
+#287_3|IfcBoolean|.T.
+#288_0|IfcLengthMeasure|[5843.61921036602, 337.201470228289, -55.5453957077091]
+#291_0|IfcReal|[0.140650356486184, -0.957724110628335, -0.250962158783896]
+#293_1|IfcLengthMeasure|304.8
+#295_1|IfcTrimmingSelect|[#262]
+#295_2|IfcTrimmingSelect|[#288]
+#295_3|IfcBoolean|.T.
+#295_4|IfcTrimmingPreference|.CARTESIAN.
+#298_3|IfcBoolean|.T.
+#299_0|IfcLengthMeasure|[-7075.57058576357, -1560.09716742026, -51.3120602577088]
+#302_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174092]
+#304_1|IfcLengthMeasure|304.8
+#306_1|IfcTrimmingSelect|[#288]
+#306_2|IfcTrimmingSelect|[#299]
+#306_3|IfcBoolean|.T.
+#306_4|IfcTrimmingPreference|.CARTESIAN.
+#309_3|IfcBoolean|.T.
+#310_0|IfcReal|[-0.140650356486184, 0.957724110628335, 0.250962158783896]
+#312_1|IfcLengthMeasure|304.8
+#314_1|IfcTrimmingSelect|[#299]
+#314_2|IfcTrimmingSelect|[#271]
+#314_3|IfcBoolean|.T.
+#314_4|IfcTrimmingPreference|.CARTESIAN.
+#317_3|IfcBoolean|.T.
+#318_0|IfcLengthMeasure|[5843.61921036602, 337.20147022829, -1530.54539570739]
+#321_1|IfcLengthMeasure|304.8
+#323_1|IfcTrimmingSelect|[#288]
+#323_2|IfcTrimmingSelect|[#318]
+#323_3|IfcBoolean|.T.
+#323_4|IfcTrimmingPreference|.CARTESIAN.
+#326_3|IfcBoolean|.T.
+#327_0|IfcLengthMeasure|[-7075.57058576358, -1560.09716742026, -1526.31206025739]
+#330_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174014]
+#332_1|IfcLengthMeasure|304.8
+#334_1|IfcTrimmingSelect|[#318]
+#334_2|IfcTrimmingSelect|[#327]
+#334_3|IfcBoolean|.T.
+#334_4|IfcTrimmingPreference|.CARTESIAN.
+#337_3|IfcBoolean|.T.
+#338_1|IfcLengthMeasure|304.8
+#340_1|IfcTrimmingSelect|[#327]
+#340_2|IfcTrimmingSelect|[#299]
+#340_3|IfcBoolean|.T.
+#340_4|IfcTrimmingPreference|.CARTESIAN.
+#343_3|IfcBoolean|.T.
+#344_0|IfcLengthMeasure|[5821.82414726931, 485.609607554509, -1680.54539570748]
+#347_0|IfcReal|[-0.102742912747078, 0.699602668577134, -0.707106781186546]
+#349_1|IfcLengthMeasure|304.8
+#351_1|IfcTrimmingSelect|[#318]
+#351_2|IfcTrimmingSelect|[#344]
+#351_3|IfcBoolean|.T.
+#351_4|IfcTrimmingPreference|.CARTESIAN.
+#354_3|IfcBoolean|.T.
+#355_0|IfcLengthMeasure|[-7097.36564886028, -1411.68903009404, -1676.31206025748]
+#358_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174014]
+#360_1|IfcLengthMeasure|304.8
+#362_1|IfcTrimmingSelect|[#344]
+#362_2|IfcTrimmingSelect|[#355]
+#362_3|IfcBoolean|.T.
+#362_4|IfcTrimmingPreference|.CARTESIAN.
+#365_3|IfcBoolean|.T.
+#366_0|IfcReal|[0.102742912747088, -0.699602668577134, 0.707106781186545]
+#368_1|IfcLengthMeasure|304.8
+#370_1|IfcTrimmingSelect|[#355]
+#370_2|IfcTrimmingSelect|[#327]
+#370_3|IfcBoolean|.T.
+#370_4|IfcTrimmingPreference|.CARTESIAN.
+#373_3|IfcBoolean|.T.
+#374_0|IfcLengthMeasure|[5821.82414726931, 485.609607554509, -1930.54539570771]
+#377_1|IfcLengthMeasure|304.8
+#379_1|IfcTrimmingSelect|[#344]
+#379_2|IfcTrimmingSelect|[#374]
+#379_3|IfcBoolean|.T.
+#379_4|IfcTrimmingPreference|.CARTESIAN.
+#382_3|IfcBoolean|.T.
+#383_0|IfcLengthMeasure|[-7097.36564886028, -1411.68903009404, -1926.31206025771]
+#386_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174014]
+#388_1|IfcLengthMeasure|304.8
+#390_1|IfcTrimmingSelect|[#374]
+#390_2|IfcTrimmingSelect|[#383]
+#390_3|IfcBoolean|.T.
+#390_4|IfcTrimmingPreference|.CARTESIAN.
+#393_3|IfcBoolean|.T.
+#394_1|IfcLengthMeasure|304.8
+#396_1|IfcTrimmingSelect|[#383]
+#396_2|IfcTrimmingSelect|[#355]
+#396_3|IfcBoolean|.T.
+#396_4|IfcTrimmingPreference|.CARTESIAN.
+#399_3|IfcBoolean|.T.
+#400_0|IfcLengthMeasure|[5888.66234076585, 30.4913197543448, -1930.54539570771]
+#403_0|IfcReal|[0.145300420644634, -0.989387582174191, 0.]
+#405_1|IfcLengthMeasure|304.8
+#407_1|IfcTrimmingSelect|[#374]
+#407_2|IfcTrimmingSelect|[#400]
+#407_3|IfcBoolean|.T.
+#407_4|IfcTrimmingPreference|.CARTESIAN.
+#410_3|IfcBoolean|.T.
+#411_0|IfcLengthMeasure|[-7030.52745536374, -1866.8073178942, -1926.31206025771]
+#414_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174076]
+#416_1|IfcLengthMeasure|304.8
+#418_1|IfcTrimmingSelect|[#400]
+#418_2|IfcTrimmingSelect|[#411]
+#418_3|IfcBoolean|.T.
+#418_4|IfcTrimmingPreference|.CARTESIAN.
+#421_3|IfcBoolean|.T.
+#422_0|IfcReal|[-0.145300420644641, 0.98938758217419, 0.]
+#424_1|IfcLengthMeasure|304.8
+#426_1|IfcTrimmingSelect|[#411]
+#426_2|IfcTrimmingSelect|[#383]
+#426_3|IfcBoolean|.T.
+#426_4|IfcTrimmingPreference|.CARTESIAN.
+#429_3|IfcBoolean|.T.
+#430_0|IfcLengthMeasure|[5888.66234076585, 30.4913197543444, -1680.54539570816]
+#433_1|IfcLengthMeasure|304.8
+#435_1|IfcTrimmingSelect|[#400]
+#435_2|IfcTrimmingSelect|[#430]
+#435_3|IfcBoolean|.T.
+#435_4|IfcTrimmingPreference|.CARTESIAN.
+#438_3|IfcBoolean|.T.
+#439_0|IfcLengthMeasure|[-7030.52745536375, -1866.8073178942, -1676.31206025816]
+#442_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174014]
+#444_1|IfcLengthMeasure|304.8
+#446_1|IfcTrimmingSelect|[#430]
+#446_2|IfcTrimmingSelect|[#439]
+#446_3|IfcBoolean|.T.
+#446_4|IfcTrimmingPreference|.CARTESIAN.
+#449_3|IfcBoolean|.T.
+#450_1|IfcLengthMeasure|304.8
+#452_1|IfcTrimmingSelect|[#439]
+#452_2|IfcTrimmingSelect|[#411]
+#452_3|IfcBoolean|.T.
+#452_4|IfcTrimmingPreference|.CARTESIAN.
+#455_3|IfcBoolean|.T.
+#456_0|IfcLengthMeasure|[5866.86727766907, 178.899457081013, -1530.54539570739]
+#459_0|IfcReal|[-0.102742912747001, 0.699602668576602, 0.707106781187085]
+#461_1|IfcLengthMeasure|304.8
+#463_1|IfcTrimmingSelect|[#430]
+#463_2|IfcTrimmingSelect|[#456]
+#463_3|IfcBoolean|.T.
+#463_4|IfcTrimmingPreference|.CARTESIAN.
+#466_3|IfcBoolean|.T.
+#467_0|IfcLengthMeasure|[-7052.32251846052, -1718.39918056753, -1526.31206025739]
+#470_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174076]
+#472_1|IfcLengthMeasure|304.8
+#474_1|IfcTrimmingSelect|[#456]
+#474_2|IfcTrimmingSelect|[#467]
+#474_3|IfcBoolean|.T.
+#474_4|IfcTrimmingPreference|.CARTESIAN.
+#477_3|IfcBoolean|.T.
+#478_0|IfcReal|[0.102742912746996, -0.699602668576603, -0.707106781187085]
+#480_1|IfcLengthMeasure|304.8
+#482_1|IfcTrimmingSelect|[#467]
+#482_2|IfcTrimmingSelect|[#439]
+#482_3|IfcBoolean|.T.
+#482_4|IfcTrimmingPreference|.CARTESIAN.
+#485_3|IfcBoolean|.T.
+#486_0|IfcLengthMeasure|[5866.86727766907, 178.899457081013, -55.5453957077092]
+#489_1|IfcLengthMeasure|304.8
+#491_1|IfcTrimmingSelect|[#456]
+#491_2|IfcTrimmingSelect|[#486]
+#491_3|IfcBoolean|.T.
+#491_4|IfcTrimmingPreference|.CARTESIAN.
+#494_3|IfcBoolean|.T.
+#495_0|IfcLengthMeasure|[-7052.32251846052, -1718.39918056753, -51.3120602577082]
+#498_0|IfcReal|[-0.989387530178885, -0.145300413008657, 0.000324200617174118]
+#500_1|IfcLengthMeasure|304.8
+#502_1|IfcTrimmingSelect|[#486]
+#502_2|IfcTrimmingSelect|[#495]
+#502_3|IfcBoolean|.T.
+#502_4|IfcTrimmingPreference|.CARTESIAN.
+#505_3|IfcBoolean|.T.
+#506_1|IfcLengthMeasure|304.8
+#508_1|IfcTrimmingSelect|[#495]
+#508_2|IfcTrimmingSelect|[#467]
+#508_3|IfcBoolean|.T.
+#508_4|IfcTrimmingPreference|.CARTESIAN.
+#511_3|IfcBoolean|.T.
+#512_0|IfcReal|[0.140650356486198, -0.95772411062843, 0.250962158783528]
+#514_1|IfcLengthMeasure|304.8
+#516_1|IfcTrimmingSelect|[#486]
+#516_2|IfcTrimmingSelect|[#192]
+#516_3|IfcBoolean|.T.
+#516_4|IfcTrimmingPreference|.CARTESIAN.
+#519_3|IfcBoolean|.T.
+#520_0|IfcReal|[-0.140650356486202, 0.957724110628429, -0.250962158783529]
+#522_1|IfcLengthMeasure|304.8
+#524_1|IfcTrimmingSelect|[#215]
+#524_2|IfcTrimmingSelect|[#495]
+#524_3|IfcBoolean|.T.
+#524_4|IfcTrimmingPreference|.CARTESIAN.
+#527_3|IfcBoolean|.T.
+#528_0|IfcVertex|*
+#528_1|IfcVertex|*
+#528_3|IfcBoolean|.T.
+#529_0|IfcVertex|*
+#529_1|IfcVertex|*
+#529_3|IfcBoolean|.T.
+#530_0|IfcVertex|*
+#530_1|IfcVertex|*
+#530_3|IfcBoolean|.T.
+#531_0|IfcVertex|*
+#531_1|IfcVertex|*
+#531_3|IfcBoolean|.T.
+#532_0|IfcOrientedEdge|[#528, #529, #530, #531]
+#534_1|IfcBoolean|.T.
+#535_0|IfcLengthMeasure|[5906.09839124312, -88.2351901060006, 136.852967481064]
+#537_0|IfcReal|[0.145300420644633, -0.989387582174192, 0.]
+#541_0|IfcFaceBound|[#534]
+#541_2|IfcBoolean|.T.
+#544_0|IfcVertex|*
+#544_1|IfcVertex|*
+#544_3|IfcBoolean|.T.
+#545_0|IfcVertex|*
+#545_1|IfcVertex|*
+#545_3|IfcBoolean|.T.
+#546_0|IfcVertex|*
+#546_1|IfcVertex|*
+#546_3|IfcBoolean|.T.
+#547_0|IfcVertex|*
+#547_1|IfcVertex|*
+#547_3|IfcBoolean|.F.
+#548_0|IfcOrientedEdge|[#544, #545, #546, #547]
+#550_1|IfcBoolean|.T.
+#551_0|IfcLengthMeasure|[5855.24324401752, 258.050463654877, 268.044163997688]
+#553_0|IfcReal|[0.00396979985045972, -0.0248008388496603, 0.999684529780021]
+#555_0|IfcReal|[-0.145254590317722, 0.98907551180212, 0.0251144568925121]
+#559_0|IfcFaceBound|[#550]
+#559_2|IfcBoolean|.T.
+#561_0|IfcVertex|*
+#561_1|IfcVertex|*
+#561_3|IfcBoolean|.T.
+#562_0|IfcVertex|*
+#562_1|IfcVertex|*
+#562_3|IfcBoolean|.T.
+#563_0|IfcVertex|*
+#563_1|IfcVertex|*
+#563_3|IfcBoolean|.T.
+#564_0|IfcVertex|*
+#564_1|IfcVertex|*
+#564_3|IfcBoolean|.F.
+#565_0|IfcOrientedEdge|[#561, #562, #563, #564]
+#567_1|IfcBoolean|.T.
+#568_0|IfcLengthMeasure|[5804.38809679191, 604.336117415753, 145.645800808966]
+#570_0|IfcReal|[-0.145300420644633, 0.989387582174192, 0.]
+#574_0|IfcFaceBound|[#567]
+#574_2|IfcBoolean|.T.
+#576_0|IfcVertex|*
+#576_1|IfcVertex|*
+#576_3|IfcBoolean|.T.
+#577_0|IfcVertex|*
+#577_1|IfcVertex|*
+#577_3|IfcBoolean|.T.
+#578_0|IfcVertex|*
+#578_1|IfcVertex|*
+#578_3|IfcBoolean|.T.
+#579_0|IfcVertex|*
+#579_1|IfcVertex|*
+#579_3|IfcBoolean|.F.
+#580_0|IfcOrientedEdge|[#576, #577, #578, #579]
+#582_1|IfcBoolean|.T.
+#583_0|IfcLengthMeasure|[5824.00365357896, 470.768793822021, -20.5453957076272]
+#585_0|IfcReal|[-0.0367754001903152, 0.248253232336874, -0.967996850498563]
+#587_0|IfcReal|[0.140650356486185, -0.957724110628335, -0.250962158783896]
+#591_0|IfcFaceBound|[#582]
+#591_2|IfcBoolean|.T.
+#593_0|IfcVertex|*
+#593_1|IfcVertex|*
+#593_3|IfcBoolean|.T.
+#594_0|IfcVertex|*
+#594_1|IfcVertex|*
+#594_3|IfcBoolean|.T.
+#595_0|IfcVertex|*
+#595_1|IfcVertex|*
+#595_3|IfcBoolean|.T.
+#596_0|IfcVertex|*
+#596_1|IfcVertex|*
+#596_3|IfcBoolean|.F.
+#597_0|IfcOrientedEdge|[#593, #594, #595, #596]
+#599_1|IfcBoolean|.T.
+#600_0|IfcLengthMeasure|[5843.61921036602, 337.20147022829, -793.04539570755]
+#602_0|IfcReal|[-0.145300420644633, 0.989387582174192, 0.]
+#606_0|IfcFaceBound|[#599]
+#606_2|IfcBoolean|.T.
+#608_0|IfcVertex|*
+#608_1|IfcVertex|*
+#608_3|IfcBoolean|.T.
+#609_0|IfcVertex|*
+#609_1|IfcVertex|*
+#609_3|IfcBoolean|.T.
+#610_0|IfcVertex|*
+#610_1|IfcVertex|*
+#610_3|IfcBoolean|.T.
+#611_0|IfcVertex|*
+#611_1|IfcVertex|*
+#611_3|IfcBoolean|.F.
+#612_0|IfcOrientedEdge|[#608, #609, #610, #611]
+#614_1|IfcBoolean|.T.
+#615_0|IfcLengthMeasure|[5832.72167881767, 411.405538891399, -1605.54539570744]
+#617_0|IfcReal|[-0.102516098424463, 0.699635959510613, 0.707106762606249]
+#619_0|IfcReal|[-0.102742912747078, 0.699602668577135, -0.707106781186546]
+#623_0|IfcFaceBound|[#614]
+#623_2|IfcBoolean|.T.
+#625_0|IfcVertex|*
+#625_1|IfcVertex|*
+#625_3|IfcBoolean|.T.
+#626_0|IfcVertex|*
+#626_1|IfcVertex|*
+#626_3|IfcBoolean|.T.
+#627_0|IfcVertex|*
+#627_1|IfcVertex|*
+#627_3|IfcBoolean|.T.
+#628_0|IfcVertex|*
+#628_1|IfcVertex|*
+#628_3|IfcBoolean|.F.
+#629_0|IfcOrientedEdge|[#625, #626, #627, #628]
+#631_1|IfcBoolean|.T.
+#632_0|IfcLengthMeasure|[5821.82414726931, 485.609607554509, -1805.54539570759]
+#634_0|IfcReal|[-0.145300420644633, 0.989387582174192, 0.]
+#638_0|IfcFaceBound|[#631]
+#638_2|IfcBoolean|.T.
+#640_0|IfcVertex|*
+#640_1|IfcVertex|*
+#640_3|IfcBoolean|.T.
+#641_0|IfcVertex|*
+#641_1|IfcVertex|*
+#641_3|IfcBoolean|.T.
+#642_0|IfcVertex|*
+#642_1|IfcVertex|*
+#642_3|IfcBoolean|.T.
+#643_0|IfcVertex|*
+#643_1|IfcVertex|*
+#643_3|IfcBoolean|.F.
+#644_0|IfcOrientedEdge|[#640, #641, #642, #643]
+#646_1|IfcBoolean|.T.
+#647_0|IfcLengthMeasure|[5855.24324401758, 258.050463654427, -1930.54539570771]
+#649_0|IfcReal|[-0.00032076006476524, -4.71064860486430E-5, -0.999999947446979]
+#651_0|IfcReal|[0.145300420644633, -0.989387582174192, 0.]
+#655_0|IfcFaceBound|[#646]
+#655_2|IfcBoolean|.T.
+#657_0|IfcVertex|*
+#657_1|IfcVertex|*
+#657_3|IfcBoolean|.T.
+#658_0|IfcVertex|*
+#658_1|IfcVertex|*
+#658_3|IfcBoolean|.T.
+#659_0|IfcVertex|*
+#659_1|IfcVertex|*
+#659_3|IfcBoolean|.T.
+#660_0|IfcVertex|*
+#660_1|IfcVertex|*
+#660_3|IfcBoolean|.F.
+#661_0|IfcOrientedEdge|[#657, #658, #659, #660]
+#663_1|IfcBoolean|.T.
+#664_0|IfcLengthMeasure|[5888.66234076585, 30.4913197543444, -1805.54539570794]
+#666_0|IfcReal|[0.145300420644633, -0.989387582174192, 0.]
+#670_0|IfcFaceBound|[#663]
+#670_2|IfcBoolean|.T.
+#672_0|IfcVertex|*
+#672_1|IfcVertex|*
+#672_3|IfcBoolean|.T.
+#673_0|IfcVertex|*
+#673_1|IfcVertex|*
+#673_3|IfcBoolean|.T.
+#674_0|IfcVertex|*
+#674_1|IfcVertex|*
+#674_3|IfcBoolean|.T.
+#675_0|IfcVertex|*
+#675_1|IfcVertex|*
+#675_3|IfcBoolean|.F.
+#676_0|IfcOrientedEdge|[#672, #673, #674, #675]
+#678_1|IfcBoolean|.T.
+#679_0|IfcLengthMeasure|[5877.76480921746, 104.695388417679, -1605.54539570778]
+#681_0|IfcReal|[0.10296972167032, -0.699569340877949, 0.707106762605711]
+#683_0|IfcReal|[-0.102742912747, 0.699602668576602, 0.707106781187085]
+#687_0|IfcFaceBound|[#678]
+#687_2|IfcBoolean|.T.
+#689_0|IfcVertex|*
+#689_1|IfcVertex|*
+#689_3|IfcBoolean|.T.
+#690_0|IfcVertex|*
+#690_1|IfcVertex|*
+#690_3|IfcBoolean|.T.
+#691_0|IfcVertex|*
+#691_1|IfcVertex|*
+#691_3|IfcBoolean|.T.
+#692_0|IfcVertex|*
+#692_1|IfcVertex|*
+#692_3|IfcBoolean|.F.
+#693_0|IfcOrientedEdge|[#689, #690, #691, #692]
+#695_1|IfcBoolean|.T.
+#696_0|IfcLengthMeasure|[5866.86727766907, 178.899457081013, -793.04539570755]
+#698_0|IfcReal|[0.145300420644633, -0.989387582174192, 0.]
+#702_0|IfcFaceBound|[#695]
+#702_2|IfcBoolean|.T.
+#704_0|IfcVertex|*
+#704_1|IfcVertex|*
+#704_3|IfcBoolean|.T.
+#705_0|IfcVertex|*
+#705_1|IfcVertex|*
+#705_3|IfcBoolean|.F.
+#706_0|IfcVertex|*
+#706_1|IfcVertex|*
+#706_3|IfcBoolean|.T.
+#707_0|IfcVertex|*
+#707_1|IfcVertex|*
+#707_3|IfcBoolean|.F.
+#708_0|IfcOrientedEdge|[#704, #705, #706, #707]
+#710_1|IfcBoolean|.T.
+#711_0|IfcLengthMeasure|[5886.4828344561, 45.3321334875064, -20.5453957077409]
+#713_0|IfcReal|[0.0361544106927099, -0.248344430201569, -0.967996850498658]
+#715_0|IfcReal|[0.140650356486199, -0.95772411062843, 0.250962158783528]
+#719_0|IfcFaceBound|[#710]
+#719_2|IfcBoolean|.T.
+#721_0|IfcVertex|*
+#721_1|IfcVertex|*
+#721_3|IfcBoolean|.F.
+#722_0|IfcVertex|*
+#722_1|IfcVertex|*
+#722_3|IfcBoolean|.F.
+#723_0|IfcVertex|*
+#723_1|IfcVertex|*
+#723_3|IfcBoolean|.F.
+#724_0|IfcVertex|*
+#724_1|IfcVertex|*
+#724_3|IfcBoolean|.F.
+#725_0|IfcVertex|*
+#725_1|IfcVertex|*
+#725_3|IfcBoolean|.F.
+#726_0|IfcVertex|*
+#726_1|IfcVertex|*
+#726_3|IfcBoolean|.F.
+#727_0|IfcVertex|*
+#727_1|IfcVertex|*
+#727_3|IfcBoolean|.F.
+#728_0|IfcVertex|*
+#728_1|IfcVertex|*
+#728_3|IfcBoolean|.F.
+#729_0|IfcVertex|*
+#729_1|IfcVertex|*
+#729_3|IfcBoolean|.F.
+#730_0|IfcVertex|*
+#730_1|IfcVertex|*
+#730_3|IfcBoolean|.F.
+#731_0|IfcVertex|*
+#731_1|IfcVertex|*
+#731_3|IfcBoolean|.F.
+#732_0|IfcVertex|*
+#732_1|IfcVertex|*
+#732_3|IfcBoolean|.F.
+#733_0|IfcOrientedEdge|[#721, #722, #723, #724, #725, #726, #727, #728, #729, #730, #731, #732]
+#735_1|IfcBoolean|.T.
+#736_0|IfcLengthMeasure|[-7063.94655211204, -1639.24817399389, -814.880466973433]
+#738_0|IfcReal|[-0.989387582174192, -0.145300420644633, -0.]
+#742_0|IfcFaceBound|[#735]
+#742_2|IfcBoolean|.T.
+#744_0|IfcVertex|*
+#744_1|IfcVertex|*
+#744_3|IfcBoolean|.F.
+#745_0|IfcVertex|*
+#745_1|IfcVertex|*
+#745_3|IfcBoolean|.F.
+#746_0|IfcVertex|*
+#746_1|IfcVertex|*
+#746_3|IfcBoolean|.F.
+#747_0|IfcVertex|*
+#747_1|IfcVertex|*
+#747_3|IfcBoolean|.F.
+#748_0|IfcVertex|*
+#748_1|IfcVertex|*
+#748_3|IfcBoolean|.F.
+#749_0|IfcVertex|*
+#749_1|IfcVertex|*
+#749_3|IfcBoolean|.F.
+#750_0|IfcVertex|*
+#750_1|IfcVertex|*
+#750_3|IfcBoolean|.F.
+#751_0|IfcVertex|*
+#751_1|IfcVertex|*
+#751_3|IfcBoolean|.F.
+#752_0|IfcVertex|*
+#752_1|IfcVertex|*
+#752_3|IfcBoolean|.F.
+#753_0|IfcVertex|*
+#753_1|IfcVertex|*
+#753_3|IfcBoolean|.F.
+#754_0|IfcVertex|*
+#754_1|IfcVertex|*
+#754_3|IfcBoolean|.F.
+#755_0|IfcVertex|*
+#755_1|IfcVertex|*
+#755_3|IfcBoolean|.F.
+#756_0|IfcOrientedEdge|[#744, #745, #746, #747, #748, #749, #750, #751, #752, #753, #754, #755]
+#758_1|IfcBoolean|.T.
+#759_0|IfcLengthMeasure|[5855.24324401755, 258.050463654651, -819.113802423434]
+#761_0|IfcReal|[0.989387582174192, 0.145300420644633, -0.]
+#763_0|IfcReal|[-0.140650356486199, 0.95772411062843, -0.250962158783528]
+#767_0|IfcFaceBound|[#758]
+#767_2|IfcBoolean|.T.
+#769_0|IfcFace|[#541, #559, #574, #591, #606, #623, #638, #655, #670, #687, #702, #719, #742, #767]
+#772_1|IfcLabel|Body
+#772_2|IfcLabel|AdvancedBrep
+#772_3|IfcRepresentationItem|[#771]
+#779_1|IfcDirection|$
+#779_2|IfcDirection|$
+#784_4|IfcIdentifier|$
+#784_5|IfcPropertySetDefinition|[#900, #903, #911, #914, #918]
+#784_6|IfcRepresentationMap|[#780]
+#784_7|IfcLabel|9709
+#784_8|IfcLabel|$
+#784_9|IfcBuildingElementProxyTypeEnum|.NOTDEFINED.
+#788_0|IfcLabel|<Unnamed>
+#788_1|IfcText|$
+#788_2|IfcLabel|$
+#795_0|IfcLabel|https://www.csiresources.org/standards/uniformat
+#795_1|IfcLabel|1998
+#795_2|IfcDate|$
+#795_3|IfcLabel|Uniformat
+#795_4|IfcText|$
+#795_5|IfcURIReference|$
+#795_6|IfcIdentifier|$
+#798_0|IfcDirection|$
+#798_1|IfcDirection|$
+#798_3|IfcReal|1.
+#798_4|IfcDirection|$
+#801_1|IfcLabel|Body
+#801_2|IfcLabel|MappedRepresentation
+#801_3|IfcRepresentationItem|[#799]
+#803_0|IfcLabel|$
+#803_1|IfcText|$
+#803_2|IfcRepresentation|[#801]
+#808_0|IfcLengthMeasure|[4707.04863962428, 989.903435740591, 0.]
+#810_0|IfcReal|[0.805028167498566, 0.59323658816184, 0.]
+#815_4|IfcLabel|simple beam family:DB_Beams
+#815_7|IfcIdentifier|9730
+#815_8|IfcBuildingElementProxyTypeEnum|.NOTDEFINED.
+#830_0|IfcIdentifier|Reference
+#830_1|IfcText|$
+#830_2|IfcValue|[IFCIDENTIFIER, "DB_Beams"]
+#830_3|IfcUnit|$
+#831_0|IfcIdentifier|IsExternal
+#831_1|IfcText|$
+#831_2|IfcValue|[IFCBOOLEAN, .F.]
+#831_3|IfcUnit|$
+#832_4|IfcProperty|[#830, #831]
+#836_4|IfcProperty|[#830]
+#838_4|IfcObjectDefinition|[#815]
+#842_4|IfcObjectDefinition|[#815]
+#845_0|IfcIdentifier|Flip
+#845_1|IfcText|$
+#845_2|IfcValue|[IFCBOOLEAN, .F.]
+#845_3|IfcUnit|$
+#846_0|IfcIdentifier|Level
+#846_1|IfcText|$
+#846_2|IfcValue|[IFCLABEL, "Level: Level 1"]
+#846_3|IfcUnit|$
+#847_0|IfcIdentifier|Phase Created
+#847_1|IfcText|$
+#847_2|IfcValue|[IFCLABEL, "New Construction"]
+#847_3|IfcUnit|$
+#848_0|IfcIdentifier|Area
+#848_1|IfcText|$
+#848_2|IfcValue|[IFCAREAMEASURE, 40.4281413481676]
+#848_3|IfcUnit|$
+#849_0|IfcIdentifier|Volume
+#849_1|IfcText|$
+#849_2|IfcValue|[IFCVOLUMEMEASURE, 7.90141887180238]
+#849_3|IfcUnit|$
+#850_0|IfcIdentifier|Category
+#850_1|IfcText|$
+#850_2|IfcValue|[IFCLABEL, "Generic Models"]
+#850_3|IfcUnit|$
+#851_0|IfcIdentifier|Family
+#851_1|IfcText|$
+#851_2|IfcValue|[IFCLABEL, "simple beam family: DB_Beams"]
+#851_3|IfcUnit|$
+#852_0|IfcIdentifier|Family and Type
+#852_1|IfcText|$
+#852_2|IfcValue|[IFCLABEL, "simple beam family: DB_Beams"]
+#852_3|IfcUnit|$
+#853_0|IfcIdentifier|Type
+#853_1|IfcText|$
+#853_2|IfcValue|[IFCLABEL, "simple beam family: DB_Beams"]
+#853_3|IfcUnit|$
+#854_0|IfcIdentifier|Type Id
+#854_1|IfcText|$
+#854_2|IfcValue|[IFCLABEL, "simple beam family: DB_Beams"]
+#854_3|IfcUnit|$
+#855_0|IfcIdentifier|Beams
+#855_1|IfcText|$
+#855_2|IfcValue|[IFCBOOLEAN, .T.]
+#855_3|IfcUnit|$
+#856_0|IfcIdentifier|Lateral
+#856_1|IfcText|$
+#856_2|IfcValue|[IFCBOOLEAN, .F.]
+#856_3|IfcUnit|$
+#857_0|IfcIdentifier|Default Elevation
+#857_1|IfcText|$
+#857_2|IfcValue|[IFCLENGTHMEASURE, 0.]
+#857_3|IfcUnit|$
+#858_0|IfcIdentifier|Assembly Code
+#858_1|IfcText|$
+#858_2|IfcValue|[IFCTEXT, ""]
+#858_3|IfcUnit|$
+#859_0|IfcIdentifier|Assembly Description
+#859_1|IfcText|$
+#859_2|IfcValue|[IFCTEXT, ""]
+#859_3|IfcUnit|$
+#860_0|IfcIdentifier|Code Name
+#860_1|IfcText|$
+#860_2|IfcValue|[IFCTEXT, ""]
+#860_3|IfcUnit|$
+#861_0|IfcIdentifier|OmniClass Number
+#861_1|IfcText|$
+#861_2|IfcValue|[IFCTEXT, ""]
+#861_3|IfcUnit|$
+#862_0|IfcIdentifier|OmniClass Title
+#862_1|IfcText|$
+#862_2|IfcValue|[IFCTEXT, ""]
+#862_3|IfcUnit|$
+#863_0|IfcIdentifier|Type Name
+#863_1|IfcText|$
+#863_2|IfcValue|[IFCTEXT, "DB_Beams"]
+#863_3|IfcUnit|$
+#864_0|IfcIdentifier|Family Name
+#864_1|IfcText|$
+#864_2|IfcValue|[IFCTEXT, "simple beam family"]
+#864_3|IfcUnit|$
+#865_4|IfcProperty|[#845]
+#868_4|IfcObjectDefinition|[#815]
+#871_4|IfcProperty|[#846]
+#874_4|IfcObjectDefinition|[#815]
+#877_4|IfcProperty|[#848, #849]
+#881_4|IfcObjectDefinition|[#815]
+#884_4|IfcProperty|[#850, #851, #852, #853, #854]
+#891_4|IfcObjectDefinition|[#815]
+#894_4|IfcProperty|[#847]
+#897_4|IfcObjectDefinition|[#815]
+#900_4|IfcProperty|[#857]
+#903_4|IfcProperty|[#858, #859, #860, #861, #862, #863]
+#911_4|IfcProperty|[#850, #864]
+#914_4|IfcProperty|[#855, #856]
+#918_4|IfcProperty|[#831]
+#926_1|IfcDirection|$
+#926_2|IfcDirection|$
+#1182_4|IfcObjectDefinition|[#155]
+#928_0|IfcLengthMeasure|[-6.26486434921131E-15, -1.61554457443258E-13]
+#931_0|IfcProfileTypeEnum|.AREA.
+#931_1|IfcLabel|Strain
+#931_3|IfcPositiveLengthMeasure|100.
+#934_1|IfcDirection|$
+#934_2|IfcDirection|$
+#935_3|IfcPositiveLengthMeasure|10.
+#936_1|IfcLabel|Body
+#936_2|IfcLabel|SweptSolid
+#936_3|IfcRepresentationItem|[#935]
+#938_1|IfcDirection|$
+#938_2|IfcDirection|$
+#941_4|IfcIdentifier|$
+#941_5|IfcPropertySetDefinition|[#1021, #1023, #1026, #1029]
+#941_6|IfcRepresentationMap|[#939]
+#941_7|IfcLabel|6470
+#941_8|IfcLabel|$
+#941_9|IfcBuildingElementProxyTypeEnum|.NOTDEFINED.
+#945_1|IfcLabel|Body
+#945_2|IfcLabel|MappedRepresentation
+#945_3|IfcRepresentationItem|[#943]
+#947_0|IfcLabel|$
+#947_1|IfcText|$
+#947_2|IfcRepresentation|[#945]
+#950_0|IfcLengthMeasure|[4641.17467628386, 102.541204249631, 270.442150926367]
+#952_0|IfcReal|[0.0179085657216758, -0.0176103433325972, 0.99968452978002]
+#954_0|IfcReal|[-0.703689818720146, 0.710063309208835, 0.0251144568925121]
+#958_4|IfcLabel|Sensor_simple:Strain
+#958_7|IfcIdentifier|10242
+#958_8|IfcBuildingElementProxyTypeEnum|.NOTDEFINED.
+#961_0|IfcIdentifier|Reference
+#961_1|IfcText|$
+#961_2|IfcValue|[IFCIDENTIFIER, "Strain"]
+#961_3|IfcUnit|$
+#962_4|IfcProperty|[#831, #961]
+#965_4|IfcProperty|[#961]
+#967_4|IfcObjectDefinition|[#958]
+#971_4|IfcObjectDefinition|[#958]
+#974_0|IfcIdentifier|Elevation from Level
+#974_1|IfcText|$
+#974_2|IfcValue|[IFCLENGTHMEASURE, 270.442150926367]
+#974_3|IfcUnit|$
+#975_0|IfcIdentifier|Host
+#975_1|IfcText|$
+#975_2|IfcValue|[IFCTEXT, "simple beam family : DB_Beams"]
+#975_3|IfcUnit|$
+#976_0|IfcIdentifier|Schedule Level
+#976_1|IfcText|$
+#976_2|IfcValue|[IFCLABEL, "Level: Level 1"]
+#976_3|IfcUnit|$
+#977_0|IfcIdentifier|Area
+#977_1|IfcText|$
+#977_2|IfcValue|[IFCAREAMEASURE, 0.034553318784781]
+#977_3|IfcUnit|$
+#978_0|IfcIdentifier|Volume
+#978_1|IfcText|$
+#978_2|IfcValue|[IFCVOLUMEMEASURE, 0.000314144354275333]
+#978_3|IfcUnit|$
+#979_0|IfcIdentifier|Sensor_Name
+#979_1|IfcText|$
+#979_2|IfcValue|[IFCTEXT, "Top_Middle"]
+#979_3|IfcUnit|$
+#980_0|IfcIdentifier|Family
+#980_1|IfcText|$
+#980_2|IfcValue|[IFCLABEL, "Sensor_simple: Strain"]
+#980_3|IfcUnit|$
+#981_0|IfcIdentifier|Family and Type
+#981_1|IfcText|$
+#981_2|IfcValue|[IFCLABEL, "Sensor_simple: Strain"]
+#981_3|IfcUnit|$
+#982_0|IfcIdentifier|Type
+#982_1|IfcText|$
+#982_2|IfcValue|[IFCLABEL, "Sensor_simple: Strain"]
+#982_3|IfcUnit|$
+#983_0|IfcIdentifier|Type Id
+#983_1|IfcText|$
+#983_2|IfcValue|[IFCLABEL, "Sensor_simple: Strain"]
+#983_3|IfcUnit|$
+#984_0|IfcIdentifier|Type Name
+#984_1|IfcText|$
+#984_2|IfcValue|[IFCTEXT, "Strain"]
+#984_3|IfcUnit|$
+#985_0|IfcIdentifier|Family Name
+#985_1|IfcText|$
+#985_2|IfcValue|[IFCTEXT, "Sensor_simple"]
+#985_3|IfcUnit|$
+#986_4|IfcProperty|[#846, #974, #975, #976]
+#991_4|IfcObjectDefinition|[#958]
+#994_4|IfcProperty|[#977, #978]
+#998_4|IfcObjectDefinition|[#958]
+#1001_4|IfcProperty|[#979]
+#1004_4|IfcObjectDefinition|[#958]
+#1007_4|IfcProperty|[#850, #980, #981, #982, #983]
+#1013_4|IfcObjectDefinition|[#958]
+#1016_4|IfcProperty|[#847]
+#1018_4|IfcObjectDefinition|[#958]
+#1021_4|IfcProperty|[#857]
+#1023_4|IfcProperty|[#858, #859, #860, #861, #862, #984]
+#1026_4|IfcProperty|[#850, #985]
+#1029_4|IfcProperty|[#831]
+#1037_0|IfcIdentifier|Reference
+#1037_1|IfcText|$
+#1037_2|IfcValue|[IFCIDENTIFIER, "Level 1"]
+#1037_3|IfcUnit|$
+#1038_0|IfcIdentifier|AboveGround
+#1038_1|IfcText|$
+#1038_2|IfcValue|[IFCLOGICAL, .U.]
+#1038_3|IfcUnit|$
+#1039_4|IfcProperty|[#1037, #1038]
+#1043_4|IfcObjectDefinition|[#155]
+#1047_0|IfcIdentifier|Elevation
+#1047_1|IfcText|$
+#1047_2|IfcValue|[IFCLENGTHMEASURE, 0.]
+#1047_3|IfcUnit|$
+#1048_0|IfcIdentifier|Computation Height
+#1048_1|IfcText|$
+#1048_2|IfcValue|[IFCLENGTHMEASURE, 0.]
+#1048_3|IfcUnit|$
+#1049_0|IfcIdentifier|Building Story
+#1049_1|IfcText|$
+#1049_2|IfcValue|[IFCBOOLEAN, .T.]
+#1049_3|IfcUnit|$
+#1050_0|IfcIdentifier|Name
+#1050_1|IfcText|$
+#1050_2|IfcValue|[IFCTEXT, "Level 1"]
+#1050_3|IfcUnit|$
+#1051_0|IfcIdentifier|Structural
+#1051_1|IfcText|$
+#1051_2|IfcValue|[IFCBOOLEAN, .F.]
+#1051_3|IfcUnit|$
+#1052_0|IfcIdentifier|Category
+#1052_1|IfcText|$
+#1052_2|IfcValue|[IFCLABEL, "Levels"]
+#1052_3|IfcUnit|$
+#1053_0|IfcIdentifier|Family
+#1053_1|IfcText|$
+#1053_2|IfcValue|[IFCLABEL, "Level: Level 1"]
+#1053_3|IfcUnit|$
+#1054_0|IfcIdentifier|Family and Type
+#1054_1|IfcText|$
+#1054_2|IfcValue|[IFCLABEL, "Level: Level 1"]
+#1054_3|IfcUnit|$
+#1055_0|IfcIdentifier|Type
+#1055_1|IfcText|$
+#1055_2|IfcValue|[IFCLABEL, "Level: Level 1"]
+#1055_3|IfcUnit|$
+#1056_0|IfcIdentifier|Type Id
+#1056_1|IfcText|$
+#1056_2|IfcValue|[IFCLABEL, "Level: Level 1"]
+#1056_3|IfcUnit|$
+#1057_0|IfcIdentifier|Elevation Base
+#1057_1|IfcText|$
+#1057_2|IfcValue|[IFCIDENTIFIER, "Project Base Point"]
+#1057_3|IfcUnit|$
+#1058_0|IfcIdentifier|Color
+#1058_1|IfcText|$
+#1058_2|IfcValue|[IFCINTEGER, 0]
+#1058_3|IfcUnit|$
+#1059_0|IfcIdentifier|Line Pattern
+#1059_1|IfcText|$
+#1059_2|IfcValue|[IFCLABEL, "Solid"]
+#1059_3|IfcUnit|$
+#1060_0|IfcIdentifier|Line Weight
+#1060_1|IfcText|$
+#1060_2|IfcValue|[IFCIDENTIFIER, "1"]
+#1060_3|IfcUnit|$
+#1061_0|IfcIdentifier|Symbol at End 1 Default
+#1061_1|IfcText|$
+#1061_2|IfcValue|[IFCBOOLEAN, .F.]
+#1061_3|IfcUnit|$
+#1062_0|IfcIdentifier|Symbol at End 2 Default
+#1062_1|IfcText|$
+#1062_2|IfcValue|[IFCBOOLEAN, .T.]
+#1062_3|IfcUnit|$
+#1063_0|IfcIdentifier|Type Name
+#1063_1|IfcText|$
+#1063_2|IfcValue|[IFCTEXT, "Level 1"]
+#1063_3|IfcUnit|$
+#1064_0|IfcIdentifier|Family Name
+#1064_1|IfcText|$
+#1064_2|IfcValue|[IFCTEXT, "Level"]
+#1064_3|IfcUnit|$
+#1065_4|IfcProperty|[#1047]
+#1068_4|IfcObjectDefinition|[#155]
+#1071_4|IfcProperty|[#1048]
+#1074_4|IfcObjectDefinition|[#155]
+#1077_4|IfcProperty|[#1049, #1050, #1051]
+#1082_4|IfcObjectDefinition|[#155]
+#1085_4|IfcProperty|[#1052, #1053, #1054, #1055, #1056]
+#1092_4|IfcObjectDefinition|[#155]
+#1095_4|IfcProperty|[#1057]
+#1098_4|IfcProperty|[#1058, #1059, #1060, #1061, #1062]
+#1105_4|IfcProperty|[#1063]
+#1108_4|IfcProperty|[#1052, #1064]
+#1111_4|IfcProduct|[#815, #958]
+#1116_5|IfcObjectDefinition|[#159]
+#1120_5|IfcObjectDefinition|[#142]
+#1124_5|IfcObjectDefinition|[#155]
+#1128_0|IfcIdentifier|NumberOfStoreys
+#1128_1|IfcText|$
+#1128_2|IfcValue|[IFCINTEGER, 1]
+#1128_3|IfcUnit|$
+#1129_0|IfcIdentifier|IsLandmarked
+#1129_1|IfcText|$
+#1129_2|IfcValue|[IFCLOGICAL, .U.]
+#1129_3|IfcUnit|$
+#1130_4|IfcProperty|[#163, #1128, #1129]
+#1134_4|IfcProperty|[#163, #831]
+#1136_4|IfcProperty|[#163, #1038]
+#1138_4|IfcProperty|[#163]
+#1140_4|IfcObjectDefinition|[#142]
+#1144_4|IfcObjectDefinition|[#142]
+#1147_4|IfcObjectDefinition|[#142]
+#1150_4|IfcObjectDefinition|[#142]
+#1153_4|IfcProperty|[#183]
+#1155_4|IfcObjectDefinition|[#142]
+#1158_4|IfcDefinitionSelect|[#784, #815, #941, #958]
+#1165_4|IfcObject|[#815]
+#1169_4|IfcObject|[#958]
+#1173_4|IfcObjectDefinition|[#155]
+#1176_4|IfcObjectDefinition|[#155]
+#1179_4|IfcObjectDefinition|[#155]
