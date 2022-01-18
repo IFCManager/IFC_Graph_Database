@@ -1,3 +1,5 @@
+import re    #Import regex
+
 ############   Convert IFC express schema to Python lists   ############
 
 schema = open("IFC4.express schema.txt","r")
@@ -25,8 +27,6 @@ for line in schema:
 
 
 ############   Parsing IFC express schema of separate express entities  ############
-
-import re
 
 parsed_entities=[]
 
