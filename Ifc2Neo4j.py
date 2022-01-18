@@ -160,7 +160,7 @@ def LINE_reader(file):
 
 def SPLIT_line(line):
     
-    import re
+    #import re    #import regex if using seperate python files
     
     
     IFC_split = line.replace("= ","&,&").replace("(","&,&",1).split("&,&")
