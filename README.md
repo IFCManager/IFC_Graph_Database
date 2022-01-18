@@ -8,5 +8,5 @@ sensordata.csv contains sensor data used in the example
 
 
 
-IFC2Neo4j creates 4 .csv files which are to be imported to Neo4j using Neo4j Admin Import with the following command: 
+Ifc2Neo4j contains script used to create .csv files which are to be imported to Neo4j using Neo4j Admin Import with the following command: 
 > bin\neo4j-admin import --database=neo4j --nodes=import\Ifc_Node_root.csv --nodes=import\Ifc_Node_att.csv --nodes=import\Ifc_Node_nonroot.csv --relationships=import\Ifc_Connection_all.csv --delimiter="|"
